@@ -1,3 +1,3 @@
 AI Chatbot for Customer Support
-Developed by Group Member Adithya Ellawala
+Developed by Group Member Adithya Ellawala 
 
